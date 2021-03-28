@@ -15,7 +15,7 @@
     const developer = {
         name: 'Anderson',
         age: 35,
-        skils: [
+        skills: [
             { 
                 name: 'C++', 
                 specialty: 'Desktop'
